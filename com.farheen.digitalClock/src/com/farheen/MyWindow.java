@@ -49,8 +49,7 @@ public class MyWindow extends JFrame{
 
 		last_spacer1 = new Label();
 		last_spacer2 = new Label();
-		// last_spacer3 = new Label();
-		// last_spacer4 = new Label();
+		
 
 		clock_time.setFont(fn2);
 		clock_heading.setFont(fn);
